@@ -1,2 +1,2 @@
 # XDEMO-UV
-An easy XDEMO-UV pull.
+An easy pull of Rocket Software's XDEMO-UV demo account
